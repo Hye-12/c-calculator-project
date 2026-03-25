@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # C Calculator Project
+# ? ? ? : ???
+# ?    ? : 2026.03.25
 
 GitHub Actions를 이용한 C 언어 계산기 프로젝트 예제입니다.
 
